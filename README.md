@@ -1,5 +1,4 @@
 
-fff
 <div align="center">
   <img src="resources/mmdet-logo.png" width="600"/>
   <div>&nbsp;</div>
